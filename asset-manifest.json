@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/online-store-ts/static/css/main.2f068ce5.css",
-    "main.js": "/online-store-ts/static/js/main.10cc1bdf.js",
+    "main.css": "/online-store-ts/static/css/main.276a26cd.css",
+    "main.js": "/online-store-ts/static/js/main.c1cbc1b4.js",
     "static/js/787.a92fe09e.chunk.js": "/online-store-ts/static/js/787.a92fe09e.chunk.js",
     "static/media/2.png": "/online-store-ts/static/media/2.d2ce30cff54a9d3acb70.png",
     "static/media/3.png": "/online-store-ts/static/media/3.6f635c3c868928e992e5.png",
@@ -18,12 +18,12 @@
     "static/media/xiaomi.svg": "/online-store-ts/static/media/xiaomi.7a6cbd5061b8996276f382fba02dca7a.svg",
     "static/media/apple.svg": "/online-store-ts/static/media/apple.28c40b10ca96b95867f411983322604f.svg",
     "index.html": "/online-store-ts/index.html",
-    "main.2f068ce5.css.map": "/online-store-ts/static/css/main.2f068ce5.css.map",
-    "main.10cc1bdf.js.map": "/online-store-ts/static/js/main.10cc1bdf.js.map",
+    "main.276a26cd.css.map": "/online-store-ts/static/css/main.276a26cd.css.map",
+    "main.c1cbc1b4.js.map": "/online-store-ts/static/js/main.c1cbc1b4.js.map",
     "787.a92fe09e.chunk.js.map": "/online-store-ts/static/js/787.a92fe09e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f068ce5.css",
-    "static/js/main.10cc1bdf.js"
+    "static/css/main.276a26cd.css",
+    "static/js/main.c1cbc1b4.js"
   ]
 }
