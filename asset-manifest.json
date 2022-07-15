@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/online-store/static/css/main.2f068ce5.css",
-    "main.js": "/online-store/static/js/main.c3a57b6e.js",
-    "static/js/787.a92fe09e.chunk.js": "/online-store/static/js/787.a92fe09e.chunk.js",
-    "static/media/2.png": "/online-store/static/media/2.d2ce30cff54a9d3acb70.png",
-    "static/media/3.png": "/online-store/static/media/3.6f635c3c868928e992e5.png",
-    "static/media/1.png": "/online-store/static/media/1.d119e583c1f299cc3a84.png",
-    "static/media/4.png": "/online-store/static/media/4.5d44fba3f9882a69d00b.png",
-    "static/media/9.png": "/online-store/static/media/9.b713a2775155f9d2a73f.png",
-    "static/media/6.png": "/online-store/static/media/6.0fca31256b386c10e94f.png",
-    "static/media/5.png": "/online-store/static/media/5.842fbce6ec74ffbdaf55.png",
-    "static/media/7.png": "/online-store/static/media/7.74bbc5b9b3873333bbb4.png",
-    "static/media/8.png": "/online-store/static/media/8.72d2c16d93597be23633.png",
-    "static/media/10.png": "/online-store/static/media/10.b39658bd0ead2fd9cd50.png",
-    "static/media/logo_rs_text.svg": "/online-store/static/media/logo_rs_text.aac97bdf0974bd70b2b18481eda03ae5.svg",
-    "static/media/samsung.svg": "/online-store/static/media/samsung.e555f7f5f7015817eef5f283bc5b824f.svg",
-    "static/media/xiaomi.svg": "/online-store/static/media/xiaomi.7a6cbd5061b8996276f382fba02dca7a.svg",
-    "static/media/apple.svg": "/online-store/static/media/apple.28c40b10ca96b95867f411983322604f.svg",
-    "index.html": "/online-store/index.html",
-    "main.2f068ce5.css.map": "/online-store/static/css/main.2f068ce5.css.map",
-    "main.c3a57b6e.js.map": "/online-store/static/js/main.c3a57b6e.js.map",
-    "787.a92fe09e.chunk.js.map": "/online-store/static/js/787.a92fe09e.chunk.js.map"
+    "main.css": "/online-store-ts/static/css/main.2f068ce5.css",
+    "main.js": "/online-store-ts/static/js/main.10cc1bdf.js",
+    "static/js/787.a92fe09e.chunk.js": "/online-store-ts/static/js/787.a92fe09e.chunk.js",
+    "static/media/2.png": "/online-store-ts/static/media/2.d2ce30cff54a9d3acb70.png",
+    "static/media/3.png": "/online-store-ts/static/media/3.6f635c3c868928e992e5.png",
+    "static/media/1.png": "/online-store-ts/static/media/1.d119e583c1f299cc3a84.png",
+    "static/media/4.png": "/online-store-ts/static/media/4.5d44fba3f9882a69d00b.png",
+    "static/media/9.png": "/online-store-ts/static/media/9.b713a2775155f9d2a73f.png",
+    "static/media/6.png": "/online-store-ts/static/media/6.0fca31256b386c10e94f.png",
+    "static/media/5.png": "/online-store-ts/static/media/5.842fbce6ec74ffbdaf55.png",
+    "static/media/7.png": "/online-store-ts/static/media/7.74bbc5b9b3873333bbb4.png",
+    "static/media/8.png": "/online-store-ts/static/media/8.72d2c16d93597be23633.png",
+    "static/media/10.png": "/online-store-ts/static/media/10.b39658bd0ead2fd9cd50.png",
+    "static/media/logo_rs_text.svg": "/online-store-ts/static/media/logo_rs_text.aac97bdf0974bd70b2b18481eda03ae5.svg",
+    "static/media/samsung.svg": "/online-store-ts/static/media/samsung.e555f7f5f7015817eef5f283bc5b824f.svg",
+    "static/media/xiaomi.svg": "/online-store-ts/static/media/xiaomi.7a6cbd5061b8996276f382fba02dca7a.svg",
+    "static/media/apple.svg": "/online-store-ts/static/media/apple.28c40b10ca96b95867f411983322604f.svg",
+    "index.html": "/online-store-ts/index.html",
+    "main.2f068ce5.css.map": "/online-store-ts/static/css/main.2f068ce5.css.map",
+    "main.10cc1bdf.js.map": "/online-store-ts/static/js/main.10cc1bdf.js.map",
+    "787.a92fe09e.chunk.js.map": "/online-store-ts/static/js/787.a92fe09e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f068ce5.css",
-    "static/js/main.c3a57b6e.js"
+    "static/js/main.10cc1bdf.js"
   ]
 }
